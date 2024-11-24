@@ -1,0 +1,28 @@
+.top {
+  background-color: rgb(232, 193, 50);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  color: black;
+  font-size: 1.5rem;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+.bottom {
+  background-color: rgb(232, 193, 50);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  color: black;
+  font-size: 1.5rem;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}

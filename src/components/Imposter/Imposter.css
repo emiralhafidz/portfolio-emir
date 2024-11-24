@@ -1,0 +1,41 @@
+.imposterWrapper {
+  margin-top: 100px;
+}
+.item span{
+  font-style: normal;
+  font-weight: 600;
+  border: none;
+}
+.item {
+  text-align: center;
+  color: white;
+  line-height: 30px;
+}
+.content1{
+  margin-bottom: 60px;
+}
+.content2{
+  margin-top: 60px;
+  text-align: center;
+}
+.content2 h3{
+  font-size: 1.5rem;
+  width: 80%;
+  margin: 0 auto 50px auto;
+}
+.content2 p{
+  font-size: 1.3rem;
+
+}
+.imposter h2 {
+  color: var(--primary);
+}
+.textImposter1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 30px 0;
+}
+.textImposter2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}

@@ -1,0 +1,28 @@
+.storyTellerContainer {
+  text-align: center;
+  color: white;
+  line-height: 40px;
+  margin-top: 100px;
+}
+.titleStoryTeller {
+  color: var(--primary);
+}
+.storyTeller1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 30px 0;
+}
+.storyTeller2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.storyTeller3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+span{
+    color: var(--primary);
+    cursor: pointer;
+    font-style: italic;
+    border-bottom: 1px solid var(--primary);
+}

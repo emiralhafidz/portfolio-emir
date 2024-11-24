@@ -1,0 +1,58 @@
+.projectContainer {
+  display: flex;
+  margin: auto;
+  gap: 40px;
+  margin: 100px 0;
+}
+.projectImg {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+.project .text1 {
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 10px 0 20px 0;
+}
+.project .text2 {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+.project .viewDetailBtn {
+  margin-top: 50px;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 50px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+.experienceContainer {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  row-gap: 40px;
+}
+@media(max-width:500px){
+  .projectContainer{
+    flex-wrap: wrap;
+  }
+
+}

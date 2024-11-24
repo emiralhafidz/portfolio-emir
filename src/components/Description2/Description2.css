@@ -1,0 +1,18 @@
+.myDescription {
+    text-align: center;
+    color: white;
+    line-height: 40px;
+  }
+  .myDescription h2 {
+    color: var(--primary);
+  }
+  .textDescription1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 30px 0;
+  }
+  .textDescription2 {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+

@@ -1,0 +1,29 @@
+.experienceContainer {
+  margin: 50px 0 80px 0;
+}
+.experience {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  font-size: 1.3rem;
+}
+@media (max-width: 500px) {
+  .experience {
+    flex-direction: column;
+  }
+}
+.year {
+  font-weight: 600;
+  color: var(--primary);
+  flex: 4;
+}
+.company {
+  font-weight: 400;
+  flex: 4;
+}
+.position {
+  font-weight: 400;
+  flex: 4;
+}
